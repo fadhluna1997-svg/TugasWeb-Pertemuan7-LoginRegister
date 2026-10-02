@@ -1,0 +1,26 @@
+[
+    {
+        "id": "usr_6abf33edd85972.26247796",
+        "name": "budi",
+        "email": "budi@gmail.com",
+        "password": "$2y$10$hEg7y0BT27zWUAvUhPYpd.3lqtd9arJwOC8K8..6XYeMCJMJfVN02",
+        "remember_token": "",
+        "created_at": "2026-10-02 06:32:45"
+    },
+    {
+        "id": "usr_6abf35e67ea4e0.96622553",
+        "name": "siti aminah",
+        "email": "siti@gmail.com",
+        "password": "$2y$10$Aifs6ciMkIrAcFQeOQGjleWI9nRQZy3vXaYL368kbS.caGiWGf2oC",
+        "remember_token": "",
+        "created_at": "2026-10-02 06:41:10"
+    },
+    {
+        "id": "usr_6abf362eba5fc0.33177060",
+        "name": "jessica mila",
+        "email": "mila@gmail.com",
+        "password": "$2y$10$hL2.eBsDLiE2DoGrFZlODOm6ukEBNyLPt\/1tNxJbtgkAKjrgIBFDe",
+        "remember_token": "",
+        "created_at": "2026-10-02 06:42:22"
+    }
+]
